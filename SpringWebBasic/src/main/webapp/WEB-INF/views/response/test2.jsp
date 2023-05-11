@@ -9,9 +9,8 @@
 <body>
 
 	<h2>@ModelAttribute로 여러 개의 값을 처리하기</h2>
-	아이디 : ${info.userId}<br>
-	이름 : ${info.userName}<br>
+	아이디: ${info.userId} <br>
+	이름: ${info.userName}
 	
-
 </body>
 </html>
